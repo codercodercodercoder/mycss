@@ -1,0 +1,508 @@
+/* CSS Document */
+@charset "utf-8";
+.mobile_slider, .mobile_tab, .mobile-tab {
+	display: none;
+}
+.tab_desc > div {
+	text-align: left;
+}
+@media screen and ( max-width: 320px ) {
+.org-listinghead {
+	font-size: 10px;
+}
+
+#org-header {
+	width: 100%;
+	float: left;
+}
+.header {
+	width: 100%;
+}
+.top-header {
+	display: none;
+}
+.banner {
+	display: none;
+}
+.header-bg {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	display: table;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+#org-logo {
+	width: 100%;
+	text-align: center;
+	margin: 15px 0 15px;
+	padding: 0;
+	position: relative;
+	background: none;
+}
+#org-logo img {
+	max-width: 100%;
+}
+.menu-holder {
+	display: none;
+}
+.promo-banner {
+	display: none;
+}
+#org-menu {
+	display: none;
+}
+.org-content {
+	width: 100%;
+	float: left;
+	margin: 0px 0 0 0;
+	padding: 0px 0px;
+}
+.products01 {
+	display: none;
+}
+.desc-rd {
+	width: 96%;
+	padding: 2%;
+	border: 0 none;
+}
+.listing-tab {
+	display: none;
+}
+.mobile-tab {
+	display: block;
+}
+.org-scrolleo-box {
+	display: none;
+}
+.scrolleo-title {
+	display: none;
+}
+.org-wrapcens {
+	display: table;
+	margin: 0 auto;
+	padding: 0 !important;
+	width: 100%;
+}
+#org-footer {
+	width: 100%;
+}
+#org-footer02 {
+	display: none;
+}
+.f-col1, .f-col2, .f-col3, .f-col4 {
+	display: none;
+}
+#org-footer01 {
+	width: 100%;
+}
+#org-copy {
+	text-align: center!important;
+	margin: 25px 0 0!important;
+	width: 100% !important;
+}
+#org-designer {
+	text-align: center!important;
+	margin: 5px 0 25px 0!important;
+	width: 100% !important;
+}
+.footer-copy {
+	display: table;
+	float: none;
+	margin: 0 auto;
+}
+/*-----mobile tab html start------*/
+
+/*-----mobile tab html END------*/
+#gallery {
+	width: 100%;
+	padding: 0 0 0px;
+	margin: 0;
+	border: 0 none;
+}
+#gallery #slides {
+	width: 100%;
+}
+#gallery #slides div {
+	width: auto;
+}
+#gallery #fullsize {
+	height: 250px;
+	margin: 5% 5%;
+	padding: 0;
+	width: 90.5%;
+	border: 0px solid #7cc120;
+}
+#gallery #fullsize div {
+	height: 250px;
+}
+#gallery #fullsize div span {
+	display: table-cell;
+	height: 250px;
+	margin: 0 auto;
+	text-align: center;
+	width: 320px;
+}
+#gallery #fullsize div img {
+	height: auto;
+	max-height: 250px;
+}
+#gallery #slides div ul li {
+	margin: 1px;
+}
+#gallery #slides div ul li:last-child {
+	margin: 1px;
+}
+#gallery #slides div ul li a {
+	width: 40px;
+	height: 40px;
+}
+#gallery #slides div ul li a img {
+	display: table;
+	margin: 0 auto;
+	max-height: 40px;
+	width: 40px;
+}
+.accordion-item-bd > img {
+	width: 100%;
+}
+#gallery #slides div ul li a {
+	padding: 0px;
+}
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+.org-listinghead {
+	font-size: 10px;
+}
+	
+	#org-header {
+	width: 100%;
+	float: left;
+}
+.header {
+	width: 100%;
+}
+.top-header {
+	display: none;
+}
+.banner {
+	display: none;
+}
+.header-bg {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	display: table;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+#org-logo {
+	width: 100%;
+	text-align: center;
+	margin: 15px 0 15px;
+	padding: 0;
+	position: relative;
+	background: none;
+}
+#org-logo img {
+	max-width: 100%;
+}
+.menu-holder {
+	display: none;
+}
+.promo-banner {
+	display: none;
+}
+#org-menu {
+	display: none;
+}
+.org-content {
+	width: 100%;
+	float: left;
+	margin: 0px 0 0 0;
+	padding: 0px 0px;
+}
+.products01 {
+	display: none;
+}
+.desc-rd {
+	width: 96%;
+	padding: 2%;
+	border: 0 none;
+}
+.listing-tab {
+	display: none;
+}
+.mobile-tab {
+	display: block;
+}
+.org-scrolleo-box {
+	display: none;
+}
+.scrolleo-title {
+	display: none;
+}
+.org-wrapcens {
+	display: table;
+	margin: 0 auto;
+	padding: 0 !important;
+	width: 100%;
+}
+#org-footer {
+	width: 100%;
+}
+#org-footer02 {
+	display: none;
+}
+.f-col1, .f-col2, .f-col3, .f-col4 {
+	display: none;
+}
+#org-footer01 {
+	width: 100%;
+}
+#org-copy {
+	text-align: center!important;
+	margin: 25px 0 0!important;
+	width: 100% !important;
+}
+#org-designer {
+	text-align: center!important;
+	margin: 5px 0 25px 0!important;
+	width: 100% !important;
+}
+.footer-copy {
+	display: table;
+	float: none;
+	margin: 0 auto;
+}
+/*-----mobile tab html start------*/
+
+/*-----mobile tab html END------*/
+#gallery {
+	width: 100%;
+	padding: 0 0 0px;
+	margin: 0;
+	border: 0 none;
+}
+#gallery #slides {
+	width: 100%;
+}
+#gallery #slides div {
+	width: auto;
+}
+#gallery #fullsize {
+	height: 250px;
+	margin: 5% 5%;
+	padding: 0;
+	width: 90.5%;
+	border: 0px solid #7cc120;
+}
+#gallery #fullsize div {
+	height: 250px;
+}
+#gallery #fullsize div span {
+	display: table-cell;
+	height: 250px;
+	margin: 0 auto;
+	text-align: center;
+	width: 360px;
+}
+#gallery #fullsize div img {
+	height: auto;
+	max-height: 250px;
+}
+#gallery #slides div ul li {
+	margin: 1px;
+}
+#gallery #slides div ul li:last-child {
+	margin: 1px;
+}
+#gallery #slides div ul li a {
+	width: 40px;
+	height: 40px;
+}
+#gallery #slides div ul li a img {
+	display: table;
+	margin: 0 auto;
+	max-height: 40px;
+	width: 40px;
+}
+.accordion-item-bd > img {
+	width: 100%;
+}
+#gallery #slides div ul li a {
+	padding: 0px;
+}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.org-listinghead {
+	font-size: 10px;
+}
+	
+	#org-header {
+	width: 100%;
+	float: left;
+}
+.header {
+	width: 100%;
+}
+.top-header {
+	display: none;
+}
+.banner {
+	display: none;
+}
+.header-bg {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	display: table;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+}
+#org-logo {
+	width: 100%;
+	text-align: center;
+	margin: 15px 0 15px;
+	padding: 0;
+	position: relative;
+	background: none;
+}
+#org-logo img {
+	max-width: 100%;
+}
+.menu-holder {
+	display: none;
+}
+.promo-banner {
+	display: none;
+}
+#org-menu {
+	display: none;
+}
+.org-content {
+	width: 100%;
+	float: left;
+	margin: 0px 0 0 0;
+	padding: 0px 0px;
+}
+.products01 {
+	display: none;
+}
+.desc-rd {
+	width: 96%;
+	padding: 2%;
+	border: 0 none;
+}
+.listing-tab {
+	display: none;
+}
+.mobile-tab {
+	display: block;
+}
+.org-scrolleo-box {
+	display: none;
+}
+.scrolleo-title {
+	display: none;
+}
+.org-wrapcens {
+	display: table;
+	margin: 0 auto;
+	padding: 0 !important;
+	width: 100%;
+}
+#org-footer {
+	width: 100%;
+}
+#org-footer02 {
+	display: none;
+}
+.f-col1, .f-col2, .f-col3, .f-col4 {
+	display: none;
+}
+#org-footer01 {
+	width: 100%;
+}
+#org-copy {
+	text-align: center!important;
+	margin: 25px 0 0!important;
+	width: 100% !important;
+}
+#org-designer {
+	text-align: center!important;
+	margin: 5px 0 25px 0!important;
+	width: 100% !important;
+}
+.footer-copy {
+	display: table;
+	float: none;
+	margin: 0 auto;
+}
+/*-----mobile tab html start------*/
+
+/*-----mobile tab html END------*/
+#gallery {
+	width: 100%;
+	padding: 0 0 0px;
+	margin: 0;
+	border: 0 none;
+}
+#gallery #slides {
+	width: 100%;
+}
+#gallery #slides div {
+	width: auto;
+}
+#gallery #fullsize {
+	height: 250px;
+	margin: 5% 5%;
+	padding: 0;
+	width: 90.5%;
+	border: 0px solid #7cc120;
+}
+#gallery #fullsize div {
+	height: 250px;
+}
+#gallery #fullsize div span {
+	display: table-cell;
+	height: 250px;
+	margin: 0 auto;
+	text-align: center;
+	width: 762px;
+}
+#gallery #fullsize div img {
+	height: auto;
+	max-height: 250px;
+}
+#gallery #slides div ul li {
+	margin: 1px;
+}
+#gallery #slides div ul li:last-child {
+	margin: 1px;
+}
+#gallery #slides div ul li a {
+	width: 40px;
+	height: 40px;
+}
+#gallery #slides div ul li a img {
+	display: table;
+	margin: 0 auto;
+	max-height: 40px;
+	width: 40px;
+}
+.accordion-item-bd > img {
+	width: 100%;
+}
+#gallery #slides div ul li a {
+	padding: 0px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+}
+
+.relatedno { display: none; }
+.variation-section table { width: 100%; height: 235px; }
+.variation-section table td { text-align: center; font-size: 0.7vw; color: #000; text-transform: uppercase; font-weight: bold; white-space: nowrap; }
+.variation-section table td a { color: #000; text-decoration: none; }
+.variation-section table td img { max-width: 98%; max-height: 200px; border: 1px solid #999; }
